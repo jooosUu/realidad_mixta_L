@@ -1,0 +1,21 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+.vs/
+.vscode/
+.idea/
+.DS_Store
